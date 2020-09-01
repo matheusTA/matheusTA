@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**matheusTA/matheusTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<pre><b>JavaScript Developer at <a href="https://www.linkedin.com/company/concretebr/">Concrete Solutions</a></b></pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const personalProfile = {
+  name: "Matheus Antonino",
+  age: 21,
+  location: "Brazil",
+  state: "Pernambuco",
+  city: "Recife",
+};
+
+const devProfile = {
+  skills: {
+    languages: [["JS", "TS"], "Java", "Dart"],
+    web: ["HTML", "CSS", "Web Protocols", ...others],
+    frameworksAndLibrarys: ["ReactJS", "Angular", "React Native", "NodeJS", "Flutter", "Spring Boot"],
+  },
+};
+```
+
+---

@@ -16,7 +16,7 @@ const devProfile = {
   skills: {
     languages: [["JS", "TS"], "Java", "Dart"],
     web: ["HTML", "CSS", "Web Protocols", ...others],
-    frameworksAndLibrarys: ["ReactJS", "Angular", "React Native", "NodeJS", "Flutter", "Spring Boot"],
+    frameworksAndLibrarys: ["ReactJS", "Angular", "React Native", "Flutter", "NodeJS", "Spring Boot"],
   },
 };
 ```

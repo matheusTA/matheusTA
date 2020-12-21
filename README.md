@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<pre><b>FullStack Developer at Able Tech</b></pre>
+<pre><b>Software engineer at Able Tech</b></pre>
 
 ```javascript
 const personalProfile = {

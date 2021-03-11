@@ -6,7 +6,7 @@
 ```javascript
 const personalProfile = {
   name: "Matheus Antonino",
-  age: 21,
+  age: 22,
   location: "Brazil",
   state: "Pernambuco",
   city: "Recife",
